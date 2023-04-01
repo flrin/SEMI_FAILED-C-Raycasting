@@ -1,0 +1,37 @@
+﻿  main.cpp
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(48,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(49,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(67,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(68,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(94,36): warning C4244: '+=': conversion from 'long double' to 'int', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(98,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(98,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(137,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(137,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(142,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(147,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  SFML_Project1.vcxproj -> D:\VisualStudioProjects\SFML_Project1\x64\Debug\SFML_Project1.exe
